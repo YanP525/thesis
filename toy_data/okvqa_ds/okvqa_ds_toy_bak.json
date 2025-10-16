@@ -1,0 +1,20 @@
+[
+  {
+    "question": "You invest $1 at a 5% interest rate for 3 years. What is the present value of that $1?\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "choices": ["0.8638", "1", "14", "10"],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_7.png",
+    "answer": "0"
+  },
+  {
+    "question": "A small project includes several tasks with different durations. The longest path through the tasks takes 26 days. What is the total project completion time?\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "choices": ["23", "25", "26", "30"],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_10.png",
+    "answer": "2"
+  },
+  {
+    "question": "Seven students each take 3 different exams. No student can take more than one exam per day. What is the minimum number of days needed to schedule all exams?\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "choices": ["3", "4", "5", "6"],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_13.png",
+    "answer": "1"
+  }
+]

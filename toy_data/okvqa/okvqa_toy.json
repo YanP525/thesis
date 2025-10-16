@@ -1,0 +1,287 @@
+[
+  {
+    "question_id": "2971475",
+    "question": "What sport can you use this for?",
+    "answers": [
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "motocross",
+      "motocross",
+      "riding",
+      "riding"
+    ],
+    "question_type": "Vehicles and Transportation",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_0.png"
+  },
+  {
+    "question_id": "3397615",
+    "question": "Name the type of plant this is?",
+    "answers": [
+      "vine",
+      "vine",
+      "vine",
+      "vine",
+      "climbing",
+      "climbing",
+      "looks like some kind of ivy",
+      "looks like some kind of ivy",
+      "ficus",
+      "ficus"
+    ],
+    "question_type": "Plants and Animals",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_1.png"
+  },
+  {
+    "question_id": "3575865",
+    "question": "What toy is this?",
+    "answers": [
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "teddy bear",
+      "teddy bear",
+      "teddy bear",
+      "teddy bear"
+    ],
+    "question_type": "Other",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_2.png"
+  },
+  {
+    "question_id": "949225",
+    "question": "Which part of this animal would be in use of it was playing the game that is played with the items the man is holding?",
+    "answers": [
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth"
+    ],
+    "question_type": "Plants and Animals",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_3.png"
+  },
+  {
+    "question_id": "2076115",
+    "question": "What could this gentleman be carrying in that red bag?",
+    "answers": [
+      "clothes",
+      "clothes",
+      "clothes",
+      "clothes",
+      "food",
+      "food",
+      "lunch",
+      "lunch",
+      "shoes",
+      "shoes"
+    ],
+    "question_type": "People and Everyday life",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_4.png"
+  },
+  {
+    "question_id": "5723996",
+    "question": "Who leaves a toilet like this?",
+    "answers": [
+      "man",
+      "man",
+      "man",
+      "man",
+      "man",
+      "man",
+      "men",
+      "men",
+      "men",
+      "men"
+    ],
+    "question_type": "People and Everyday life",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_5.png"
+  },
+  {
+    "question_id": "5759705",
+    "question": "A center affixed unit like this one in a kitchen is called a what?",
+    "answers": [
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island"
+    ],
+    "question_type": "People and Everyday life",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_6.png"
+  },
+  {
+    "question_id": "3045575",
+    "question": "Why might someone go to this place?",
+    "answers": [
+      "shopping",
+      "shopping",
+      "shopping",
+      "shopping",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "question_type": "People and Everyday life",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_7.png"
+  },
+  {
+    "question_id": "2183655",
+    "question": "What does this grow from?",
+    "answers": [
+      "ground",
+      "ground",
+      "ground",
+      "ground",
+      "plant",
+      "plant",
+      "hibiscus plant stem",
+      "hibiscus plant stem",
+      "roots",
+      "roots"
+    ],
+    "question_type": "Plants and Animals",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_8.png"
+  },
+  {
+    "question_id": "2863135",
+    "question": "What is that man doing with the bat?",
+    "answers": [
+      "swinging",
+      "swinging",
+      "swinging",
+      "swinging",
+      "swing",
+      "swing",
+      "hitting",
+      "hitting",
+      "trying to hit hte ball",
+      "trying to hit hte ball"
+    ],
+    "question_type": "Sports and Recreation",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_9.png"
+  },
+  {
+    "question_id": "299845",
+    "question": "Is this at a salt water beach or a lake?",
+    "answers": [
+      "salt water beach",
+      "salt water beach",
+      "salt water beach",
+      "salt water beach",
+      "salt water",
+      "salt water",
+      "lake",
+      "lake",
+      "beach",
+      "beach"
+    ],
+    "question_type": "People and Everyday life",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_10.png"
+  },
+  {
+    "question_id": "115115",
+    "question": "Who designed the statues?",
+    "answers": [
+      "artist",
+      "artist",
+      "artist",
+      "artist",
+      "guell",
+      "guell",
+      "toscano",
+      "toscano",
+      "aritect",
+      "aritect"
+    ],
+    "question_type": "Other",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_11.png"
+  },
+  {
+    "question_id": "3234605",
+    "question": "What is the name of the items the hot dog are topped with?",
+    "answers": [
+      "condiments",
+      "condiments",
+      "condiments",
+      "condiments",
+      "onions relish",
+      "onions relish",
+      "vegetables",
+      "vegetables",
+      "relish",
+      "relish"
+    ],
+    "question_type": "Cooking and Food",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_12.png"
+  },
+  {
+    "question_id": "5169165",
+    "question": "What is this desk used for?",
+    "answers": [
+      "working",
+      "working",
+      "working",
+      "working",
+      "computing",
+      "computing",
+      "work",
+      "work",
+      "office",
+      "office"
+    ],
+    "question_type": "Other",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_13.png"
+  },
+  {
+    "question_id": "217115",
+    "question": "What type of bike is on the ground?",
+    "answers": [
+      "bmx",
+      "bmx",
+      "bmx",
+      "bmx",
+      "bicycle",
+      "bicycle",
+      "bicycle",
+      "bicycle",
+      "10 speed",
+      "10 speed"
+    ],
+    "question_type": "Vehicles and Transportation",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_14.png"
+  }
+]

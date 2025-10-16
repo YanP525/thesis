@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "3045575",
+    "question": "Why might someone go to this place?\nA. To see a doctor\nB. To study\nC. To go shopping\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "question_type": "People and Everyday life",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_7.png"
+  },
+  {
+    "question_id": "299845",
+    "question": "Is this at a salt water beach?\nPlease answer directly with a single word or number.",
+    "answer": "Yes",
+    "question_type": "People and Everyday life",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_10.png"
+  },
+  {
+    "question_id": "5169165",
+    "question": "What is this desk used for?\nA. Working\nB. Dining\nC. Decoration\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "question_type": "Other",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_13.png"
+  }
+]

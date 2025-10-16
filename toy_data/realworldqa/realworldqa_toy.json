@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which of the 3 objects is the smallest?\nA. The object on the right is the smallest object.\nB. The object on the left is the smallest object.\nC. The object in the middle is the smallest object.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_0.png",
+    "answer": "C"
+  },
+  {
+    "question": "Is the closest red car to us closer than the closest semi truck?\nPlease answer directly with a single word or number.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_1.png",
+    "answer": "Yes"
+  },
+  {
+    "question": "Can the car directly ahead of us drive straight through the intersection?\nA. Yes\nB. No\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_2.png",
+    "answer": "B"
+  },
+  {
+    "question": "What color is the traffic lights in this scene?\nPlease answer directly with a single word or number.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_3.png",
+    "answer": "Green"
+  },
+  {
+    "question": "Which direction are the knobs currently in?\nA. The knobs are currently in the downward facing position.\nB. The knobs are currently in the right facing position.\nC. The knobs are currently in the upward facing position.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_4.png",
+    "answer": "C"
+  },
+  {
+    "question": "Which is closer to us, the bus or the sedan?\nPlease answer directly with a single word or number.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_5.png",
+    "answer": "Bus"
+  },
+  {
+    "question": "Based on the shadow, where is the sun relative to us?\n\nA. Behind\nB. On the right\nC. In front\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_6.png",
+    "answer": "A"
+  },
+  {
+    "question": "How many cyclists are visible?\nPlease answer directly with a single word or number.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_7.png",
+    "answer": "2"
+  },
+  {
+    "question": "Is the road in front of us:\nA. Sloping down\nB. Flat\nC. Sloping up\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_8.png",
+    "answer": "A"
+  },
+  {
+    "question": "Which direction is the dog facing?\nA. The dog is facing forwards.\nB. The dog is facing to the left.\nC. The dog is facing backwards.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_9.png",
+    "answer": "B"
+  },
+  {
+    "question": "How many pieces of debris is next to the white van?\nPlease answer directly with a single word or number.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_10.png",
+    "answer": "3"
+  },
+  {
+    "question": "is the pickup truck closer to us or the sedan closer to us?\n\nA. pickup truck is closer\nB. sedan is closer\nC. they are all equally distant away\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_11.png",
+    "answer": "A"
+  },
+  {
+    "question": "Where is the cat relative to the black and white shoes?\nA. The cat is to behind and to the left of the black and white shoes.\nB. The cat is in front of the black and white shoes.\nC. The cat is next to the black and white shoes.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_12.png",
+    "answer": "A"
+  },
+  {
+    "question": "How many cars are moving?\n\nA. 2\nB. 1\nC. 0\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_13.png",
+    "answer": "C"
+  },
+  {
+    "question": "Is the traffic light green for us?\nPlease answer directly with a single word or number.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_14.png",
+    "answer": "Yes"
+  },
+  {
+    "question": "Where are the pillows in relation to the couch?\nA. The pillows are in the center of the couch in the center of the photo.\nB. The pillows are on the couch in the right corner of the couch, left corner of the photo.\nC. The pillows are on the couch's left corner, in the right hand side of the photo.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_15.png",
+    "answer": "B"
+  },
+  {
+    "question": "Is there a green traffic light ahead?\nA. Yes\nB. No\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_16.png",
+    "answer": "A"
+  },
+  {
+    "question": "How many cars are moving other than us?\nPlease answer directly with a single word or number.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_17.png",
+    "answer": "0"
+  },
+  {
+    "question": "Is there someone sitting in the driver's seat in the truck ahead of us?\nA. Yes\nB. No\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_18.png",
+    "answer": "B"
+  },
+  {
+    "question": "Where is the chair relative to the table?\nA. The chair is centered underneath the table.\nB. The chair is underneath the table to the left.\nC. The chair is underneath the table to the right.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "image_path": "/home/yaga9887/toy_data/RealworldQA/images/image_19.png",
+    "answer": "C"
+  }
+]

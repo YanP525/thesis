@@ -1,0 +1,26 @@
+[
+  {
+    "question_id": "3045575",
+    "question": "Without referring to the preprogrammed function on your financial calculator, use the basic formula for present value, along with the given opportunity cost, r, and the number of periods, n, to calculate the present value of $1 in case C shown in the following table.\nPlease provide a step-by-step reasoning process, but keep it under 200 words.\nA. 0.8638\nB. 0.1\nC. 1\nD. 10\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "question_type": "People and Everyday life",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_7.png"
+  },
+  {
+    "question_id": "299845",
+    "question": "Roger Ginde is developing a program in supply chain management certification for managers. Ginde has listed a number of activities that must be completed before a training program of this nature could be conducted. The activities, immediate predecessors, and times appear in the accompanying table: <image 1> What is the total project completion time (in days)?\nPlease provide a step-by-step reasoning process, but keep it under 200 words.\nA. 23\nB. 25\nC. 26\nD. 30\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "question_type": "People and Everyday life",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_10.png"
+  },
+  {
+    "question_id": "5169165",
+    "question": "Each of seven students has chosen three courses from ten options, and must sit an exam for each of his or her three choices. Two students sitting the same exam must do so at the same time, but no student can sit more than one exam in the same day. The table of choices is given in <image 1>. Find the smallest number of days required to schedule the exams.\nPlease provide a step-by-step reasoning process, but keep it under 200 words.\nA. 1\nB. 2\nC. 3\nD. 4\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "D",
+    "question_type": "Other",
+    "answer_type": "other",
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_13.png"
+  }
+]

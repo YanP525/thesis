@@ -1,0 +1,167 @@
+[
+  {
+    "question": "which of these define dairy item",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_0.png",
+    "answer": "1",
+    "choices": [
+      "c",
+      "D",
+      "b",
+      "a"
+    ]
+  },
+  {
+    "question": "which of these define oil",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_1.png",
+    "answer": "3",
+    "choices": [
+      "b",
+      "a",
+      "d",
+      "k"
+    ]
+  },
+  {
+    "question": "According to the given food chain what would happen if phytoplankton decreases?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_2.png",
+    "answer": "1",
+    "choices": [
+      "Seal population will become extinct",
+      "Fish population would decrease.",
+      "Whale population would decrease.",
+      "Penguin population would increase."
+    ]
+  },
+  {
+    "question": "According to the given food chain, which is the smallest organism?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_3.png",
+    "answer": "2",
+    "choices": [
+      "krill",
+      "whale",
+      "Phytoplankton",
+      "leopard"
+    ]
+  },
+  {
+    "question": "Based on the given diagram answer the following question. What would happen to the elephant seal population if there were no whales?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_4.png",
+    "answer": "0",
+    "choices": [
+      "Increase",
+      "None of these",
+      "Neither increase nor decrease",
+      "Decrease"
+    ]
+  },
+  {
+    "question": "Based on the given diagram, the penguin is a",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_5.png",
+    "answer": "1",
+    "choices": [
+      "Decomposer",
+      "Predator",
+      "Herbivore",
+      "Plant"
+    ]
+  },
+  {
+    "question": "The diagram below shows a food chain. If the smaller toothed whales ate all the leopard seals, the population of krills would most likely.",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_6.png",
+    "answer": "2",
+    "choices": [
+      "remain the same",
+      "decrease",
+      "increase",
+      "NA"
+    ]
+  },
+  {
+    "question": "What could happen that would increase the number of krill?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_7.png",
+    "answer": "0",
+    "choices": [
+      "increase in phytoplankton",
+      "decrease in penguins",
+      "increase in fish",
+      "increase in birds"
+    ]
+  },
+  {
+    "question": "What event will probably cause the elephant seal population to increase?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_8.png",
+    "answer": "3",
+    "choices": [
+      "an increase in whales",
+      "a decrease in penguins",
+      "a decrease in birds",
+      "an increase in fish"
+    ]
+  },
+  {
+    "question": "Which animal is at the top of this food chain?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_9.png",
+    "answer": "2",
+    "choices": [
+      "leopard seal",
+      "baleen whale",
+      "smaller toothed whales",
+      "penguins"
+    ]
+  },
+  {
+    "question": "Which would be most directly affected if all the baleen whales were removed?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_10.png",
+    "answer": "1",
+    "choices": [
+      "phytoplankton",
+      "smaller toothed whales",
+      "penguins",
+      "birds"
+    ]
+  },
+  {
+    "question": "In the diagram which letter shows the Adulte?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_11.png",
+    "answer": "0",
+    "choices": [
+      "C",
+      "A",
+      "D",
+      "B"
+    ]
+  },
+  {
+    "question": "What stage in the diagram corresponds to letter D?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_12.png",
+    "answer": "2",
+    "choices": [
+      "oeuf",
+      "pupae",
+      "chrysalide",
+      "chenille"
+    ]
+  },
+  {
+    "question": "Larvae turn into what form?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_13.png",
+    "answer": "3",
+    "choices": [
+      "Ovums",
+      "Exoskeletons",
+      "Eggs",
+      "Adults"
+    ]
+  },
+  {
+    "question": "This diagram shows the life cycle of an insect. What is the order of the insect's life stages, from youngest to oldest?",
+    "image_path": "/home/yaga9887/toy_data/ai2d/images/image_14.png",
+    "answer": "2",
+    "choices": [
+      "B-A-C",
+      "C-A-B",
+      "A-B-C",
+      "B-C-A"
+    ]
+  }
+]
