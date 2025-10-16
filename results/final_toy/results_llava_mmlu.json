@@ -1,0 +1,77 @@
+[
+  {
+    "question": " What can murtis be translated as?",
+    "answer": 3,
+    "llava_result": "Murti can be translated as \"idols\". This refers to the physical representations of deities, such as gods and goddesses, that are used for worship and offerings in Hinduism."
+  },
+  {
+    "question": " Naturalists who concentrated on natural elements and processes are associated with which of the following?",
+    "answer": 1,
+    "llava_result": "0. Daoism is a Chinese philosophical tradition that emphasizes living in harmony with the natural world and allows for natural elements and processes to develop without human interference. It is not associated with any of the other options.\n\n1. The Yin-Yang School is a Chinese philosophical tradition that emphasizes the concept of duality, where opposing forces are interconnected and interdependent. It is also not associated with any of the other options.\n\n2. Mengzi is a Chinese philosopher who believed in human nature being innate good and the role of moral behavior and education in shaping human character. It is not associated with any of the other options.\n\n3. Humanistic Buddhism is a school of Buddhism that emphasizes the study and cultivation of human virtues and the attainment of enlightenment through personal effort and self-improvement. It is not associated with any of the other options either.\n\nTherefore, none of the options provided is correctly associated with naturalists who concentrated on natural elements and processes."
+  },
+  {
+    "question": " When was the first Buddhist temple constructed in Japan?",
+    "answer": 3,
+    "llava_result": "The correct answer is:\n1. 119 CE\n\nThe earliest Buddhist temple in Japan dates back to 119 CE, during the Heian period (794-1185). At that time, Buddhism had been introduced to Japan from China and the Korean Peninsula. The temple was called Higashimuki-dera and was located in Kyoto."
+  },
+  {
+    "question": " What is the name of the ten day New Year festival that celebrated Babylon's culture?",
+    "answer": 0,
+    "llava_result": "The correct answer is A. Akitu.\n\nThe Akitu was a Sumerian New Year festival celebrated in Babylon after the spring equinox. It lasted for ten days and was dedicated to the worship of the gods Marduk and Nabu. During the festival, the High Priest would officiate the rituals, which included the recitation of hymns, prayers, and offerings to the gods. The celebration was an essential part of Babylonian culture and religion, and its importance can be compared to that of the New Year celebrations in modern times."
+  },
+  {
+    "question": "Which of the following terms denote the Japanese art of flower arranging?",
+    "answer": 3,
+    "llava_result": "The correct answer is (3) Ikebana."
+  },
+  {
+    "question": " Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?",
+    "answer": 0,
+    "llava_result": "1. Devotion and piety."
+  },
+  {
+    "question": " Guru Nanak used what term to denote the \"divine word\" as part of divine revelation?",
+    "answer": 0,
+    "llava_result": "The correct answer is \"word\" (shabd) because Guru Nanak referred to the divine word as a part of divine revelation in Sikhism. \"Nam\" means \"divine name\" or \"divine word.\""
+  },
+  {
+    "question": "What is the mi'raj?",
+    "answer": 0,
+    "llava_result": "The correct answer is \"Muhammad's miraculous ascent to heaven\" (option 0).\n\nThe mi'raj is the Islamic belief that Muhammad (peace be upon him) had a unique and miraculous journey, known as the 'ascension,' during which he traveled up through the seven heavens directly to Allah (God) and was given his first revelation, which was the Quran (Qur'an) as a \"book.\" This event is considered to be one of the most significant and important events in Islamic history since it represents the foundation of the Islamic faith and the beginning of the process of revelation through the Prophet Muhammad. The mi'raj is also seen as a proof of the prophethood of Muhammad, as the revelation conveyed through the mi'raj is considered authentic proof of his divine authority by Muslims."
+  },
+  {
+    "question": "What is the name of the most famous dharmashastras, which probably dates from around the first century?",
+    "answer": 3,
+    "llava_result": "The most famous of the Dharmashastra is \"The Laws of Manu, 2nd Edition\", which is said to date from around the first century BCE."
+  },
+  {
+    "question": "What does the term \"Qur'an\" literally mean?",
+    "answer": 2,
+    "llava_result": "The correct answer to the question is \"The Recitation\". The term \"Qur'an\" in Arabic refers to the Quran, the holy book of Islam that was revealed to the Prophet Muhammad (s.a.w.). It is the only book whose contents are entirely divine, as it was revealed by God (Allah) Himself. The name \"Qur'an\" means \"recitation,\" as it is a book to be recited and not just read."
+  },
+  {
+    "question": " Mani referred to God by which of the following names?",
+    "answer": 1,
+    "llava_result": "Based on the information provided, it is difficult to determine the correct answer as the names could potentially have been referred to each other or a combination of them. Can you please clarify or provide additional context?"
+  },
+  {
+    "question": " Which tradition is known to promote \"gradual enlightenment\"?",
+    "answer": 3,
+    "llava_result": "The tradition known to promote \"gradual enlightenment\" is Soto Zen.\n\nSoto Zen, also known as \"the Way of suchness,\" emphasizes the gradual cultivation of one's mind through a series of exercises and practices. This approach emphasizes the process of becoming conscious of one's thoughts, emotions, and actions, and gradually integrating compassion and wisdom into daily life.\n\nIn contrast, some other traditions, such as Shinto, Nichiren, and Bushido, tend to place more emphasis on the attainment of enlightenment through sudden or dramatic experiences, or through a more holistic approach that incorporates various aspects of life, rather than a specific practice or exercise."
+  },
+  {
+    "question": "What is the communal meal offered at the place of worship called in Sikhism?",
+    "answer": 1,
+    "llava_result": "The communal meal offered at the place of worship in Sikhism is called langar.\n\nLangar is a practice of free community meal and gathering place in Sikh Gurdwara. It is a symbol of equality, social responsibility, and social inclusion, as people from different backgrounds and walks of life come together to share food and conversation.\n\nOption 0, Sangat, refers to the community of faithful, with whom one may stand together in prayer, discussion, or any activity. Option 3, Panth, refers to the Sikh religion as a whole, including not only its teachings but also its social institutions and traditions. Option 2, Gurdwara, refers to the primary place of Sikh worship, which may also serve as a place of gathering and community service."
+  },
+  {
+    "question": "To which tradition do the anti-Han rebel group known as the Celestial Masters belong?",
+    "answer": 1,
+    "llava_result": "The anti-Han rebel group known as the Celestial Masters belong to the tradition of Daoism."
+  },
+  {
+    "question": "What does the word \"Islam\" mean in Arabic?",
+    "answer": 1,
+    "llava_result": "The word \"Islam\" in Arabic means \"submission\" or \"surrender,\" as it is derived from the root word \"s-l-m,\" which is associated with obedience, submission, and surrender. However, Islam is a complete way of life that encompasses not only the act of submission and surrender, but also the principles and practices that guide the behavior and actions of its adherents."
+  }
+]

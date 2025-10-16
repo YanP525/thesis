@@ -1,0 +1,257 @@
+[
+  {
+    "question": "What sport can you use this for?",
+    "answer": [
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "racing",
+      "motocross",
+      "motocross",
+      "riding",
+      "riding"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_0.png",
+    "linear_0.25_final_result": "The motorcycle in the image is a sporty one, likely designed for riding on paved roads and tracks. It features a fairing, which typically provides better aerodynamics for high speeds, a sporty seat for comfort during longer rides or racetracks, and a suspension setup that's more responsive for sharper turns and better handling.\n\nYou can use this motorcycle for various sports such as:\n\n1. Road Racing: On closed-circuit road tracks, it can be used for competitive racing.\n2. Sport Touring: For longer rides on open roads, where you might want to cover a lot of distance efficiently and quickly.\n3. Track Days: Motorcycle track days where bike enthusiasts take their motorcycles to racetracks for high-speed riding and practice.\n4. Commuting: For daily commuting where speed and agility are key.\n5. Leisure: For recreational rides where the motorcycle's performance and riding experience are preferred.\n\nKeep in mind that the specific sport you can use it for may be limited by local laws and regulations regarding the track and the rider's permit."
+  },
+  {
+    "question": "Name the type of plant this is?",
+    "answer": [
+      "vine",
+      "vine",
+      "vine",
+      "vine",
+      "climbing",
+      "climbing",
+      "looks like some kind of ivy",
+      "looks like some kind of ivy",
+      "ficus",
+      "ficus"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_1.png",
+    "linear_0.25_final_result": "The plant in the image appears to be a large fern. It has broad, flat green leaves that are characteristic of many ferns, which are often used as ornamental plants in interior spaces. It resembles the Boston fern (Nephrolepis exaltata), which is a common choice for hanging plants due to its lush growth and shade tolerance. However, without more specific information, it's not possible to determine the exact species of the plant from this image alone."
+  },
+  {
+    "question": "What toy is this?",
+    "answer": [
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "stuffed animal",
+      "teddy bear",
+      "teddy bear",
+      "teddy bear",
+      "teddy bear"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_2.png",
+    "linear_0.25_final_result": "The toy in the image appears to be a stuffed animal, specifically resembling a teddy bear. It has a fur-like texture, which is characteristic of many types of stuffed animals, and is wearing what looks like a jacket or clothing with a pattern or design on it. The teddy bear has a head and two arms, which are typical features of such toys. Stuffed animals like this are commonly used as comforting objects for children and can also serve as decorative items in various settings."
+  },
+  {
+    "question": "Which part of this animal would be in use of it was playing the game that is played with the items the man is holding?",
+    "answer": [
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth",
+      "mouth"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_3.png",
+    "linear_0.25_final_result": "The dog in the image is likely enjoying the game of frisbee, which requires considerable effort from its legs and teeth. Dogs use their front legs and teeth to hold and carry the frisbee, while their back legs and body help propel and control their movements as they catch and retrieve the disc. When the dog is mid-jump or mid-trot, its legs are in use, and it's common for dogs to hold frisbees in their mouths when they catch them. If you're referring to the \"part of the animal\" that interacts with the frisbee, it would be the dog's hind legs during running or jumping, and its teeth while gripping or carrying the frisbee."
+  },
+  {
+    "question": "What could this gentleman be carrying in that red bag?",
+    "answer": [
+      "clothes",
+      "clothes",
+      "clothes",
+      "clothes",
+      "food",
+      "food",
+      "lunch",
+      "lunch",
+      "shoes",
+      "shoes"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_4.png",
+    "linear_0.25_final_result": "The red bag the gentleman is carrying could contain a variety of items. Given that it's a messenger bag, it's often used for carrying essentials like work materials, a wallet, keys, mobile phone, and a notebook. It could also be used for carrying small purchases from a store. It's difficult to say for sure without more information about the context or the specific items visible in the bag, but messenger bags are commonly used to carry essential items on the go."
+  },
+  {
+    "question": "Who leaves a toilet like this?",
+    "answer": [
+      "man",
+      "man",
+      "man",
+      "man",
+      "man",
+      "man",
+      "men",
+      "men",
+      "men",
+      "men"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_5.png",
+    "linear_0.25_final_result": "The image shows a small bathroom with a white toilet and sink. There are several items on the countertop, such as a toothbrush, a tube of toothpaste, a blue object that could be a bottle, and a bar of soap. Additionally, a towel is hanging on the left side, and there are toiletries stored in the wall cubby.\n\nLooking around, it appears that the bathroom is prepared for use. The toilet lid is open, perhaps the person was using it just before the photo was taken or didn't close it after, or it could be an unintentional oversight. The bathroom is clean, but it could use a few more items, like a waste bin or a small mirror above the sink for convenience.\n\nThe person who left it like this might be someone who is in a hurry, perhaps getting ready to leave their home or accommodation. Alternatively, it could be someone who is already back from using the bathroom but hasn't closed the lid yet.\n\nTo answer the question, \"Who leaves a toilet like this?,\" it's a common occurrence and not a specific person. Any individual using the bathroom may leave it like this, but it can give us some insights about their habits or mindset, such as not being the most considerate or being in a rush. However, without more context, it's impossible to determine the specific person who left the toilet lid open in this particular image.\n\nTo improve hygiene and avoid issues with odors or insects, it's generally better to close the toilet lid after use. This habit is usually taught from a young age to avoid germs and promote a clean bathroom environment."
+  },
+  {
+    "question": "A center affixed unit like this one in a kitchen is called a what?",
+    "answer": [
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island",
+      "island"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_6.png",
+    "linear_0.25_final_result": "The thing you are referring to is called a kitchen island. It's a versatile piece of kitchen furniture, often used for food preparation, serving, and additional storage. In the image, it appears to have a counter section integrated with barstools, making it a multifunctional addition to the space."
+  },
+  {
+    "question": "Why might someone go to this place?",
+    "answer": [
+      "shopping",
+      "shopping",
+      "shopping",
+      "shopping",
+      "nyc",
+      "nyc",
+      "shop",
+      "shop",
+      "business",
+      "business"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_7.png",
+    "linear_0.25_final_result": "This image depicts a vibrant and busy street night scene in Hong Kong. The street is lined with neon signs, which indicates that there are plenty of shops, restaurants, and businesses in the area. The density of people suggests it's a popular and bustling commercial hub.\n\nPeople might go to this place for shopping, dining, or entertainment. The presence of the phone billboard and the lively atmosphere suggests the area is a hub for both mobile technology advertisement and for the general public to gather and socialize. This kind of setting is often popular for tourists and locals alike, offering a mix of culture, shopping, and cuisine unique to the region. However, such a crowded and urban area could also be overwhelming for some, and might not be the best fit for those seeking a more relaxed experience."
+  },
+  {
+    "question": "What does this grow from?",
+    "answer": [
+      "ground",
+      "ground",
+      "ground",
+      "ground",
+      "plant",
+      "plant",
+      "hibiscus plant stem",
+      "hibiscus plant stem",
+      "roots",
+      "roots"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_8.png",
+    "linear_0.25_final_result": "This is an image of a lily flower, which is quite distinctive. Lily flowers typically grow from bulbs and have long stamens in the center. The color and shape of the lily in the image suggest it is likely a tiger lily (Lilium tigrinum), which is a type of lily known for its vibrant coloration, including orange, red, and yellow hues. The specific color here is a combination of these, suggesting it's a variety of the species."
+  },
+  {
+    "question": "What is that man doing with the bat?",
+    "answer": [
+      "swinging",
+      "swinging",
+      "swinging",
+      "swinging",
+      "swing",
+      "swing",
+      "hitting",
+      "hitting",
+      "trying to hit hte ball",
+      "trying to hit hte ball"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_9.png",
+    "linear_0.25_final_result": "The man in the image appears to be a baseball player who is in the process of taking a swing at a baseball. He is holding a bat with a tight grip and has stepped into his \"load\" position, preparing to strike. Typically before a pitch, the batter will \"load\" and then quickly \"stride\" towards the ball as they attempt to make contact with it. The image captures him in that preparatory phase right before the swing."
+  },
+  {
+    "question": "Is this at a salt water beach or a lake?",
+    "answer": [
+      "salt water beach",
+      "salt water beach",
+      "salt water beach",
+      "salt water beach",
+      "salt water",
+      "salt water",
+      "lake",
+      "lake",
+      "beach",
+      "beach"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_10.png",
+    "linear_0.25_final_result": "From the image, it appears to be at a salt water beach. The presence of a large body of water where people are swimming and the water's appearance look characteristic of salt water bodies, indicating it's at the ocean shore or a saltwater lake. The sand also has a certain color typical of saltwater beaches. However, without seeing any sea creatures or a certain horizon, it's not fully conclusive, but the overall setting likely suggests a saltwater beach."
+  },
+  {
+    "question": "Who designed the statues?",
+    "answer": [
+      "artist",
+      "artist",
+      "artist",
+      "artist",
+      "guell",
+      "guell",
+      "toscano",
+      "toscano",
+      "aritect",
+      "aritect"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_11.png",
+    "linear_0.25_final_result": "The image shows two statues of sitting women. The style is somewhat modern and could possibly be a work by a contemporary artist. However, without more context, it's unclear who designed them specifically. There are no visible signatures or inscriptions on the statues to provide that information. If this is an outdoor art installation, the artist would typically be credited via a plaque with the work's name and artist's name, if available in the public space."
+  },
+  {
+    "question": "What is the name of the items the hot dog are topped with?",
+    "answer": [
+      "condiments",
+      "condiments",
+      "condiments",
+      "condiments",
+      "onions relish",
+      "onions relish",
+      "vegetables",
+      "vegetables",
+      "relish",
+      "relish"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_12.png",
+    "linear_0.25_final_result": "The hot dogs are topped with relish (green and red) and what appears to be chopped onions and possibly tomato chunks as well."
+  },
+  {
+    "question": "What is this desk used for?",
+    "answer": [
+      "working",
+      "working",
+      "working",
+      "working",
+      "computing",
+      "computing",
+      "work",
+      "work",
+      "office",
+      "office"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_13.png",
+    "linear_0.25_final_result": "This desk is used as a workspace, likely for tasks that require multiple computer screens and various input/output devices. With two laptops, two external monitors attached to the laptops, a desktop computer, a telephone system, and multiple input devices such as a keyboard, mice, and mobile devices, this setup suggests that the person using this space might be involved in activities like software development, network administration, or other tech-related tasks that require managing multiple systems concurrently or running simulations. The desk also has a chair, CD holder, and some items that look like personal or utility items, indicating this is a personal space used for both work and personal computing tasks."
+  },
+  {
+    "question": "What type of bike is on the ground?",
+    "answer": [
+      "bmx",
+      "bmx",
+      "bmx",
+      "bmx",
+      "bicycle",
+      "bicycle",
+      "bicycle",
+      "bicycle",
+      "10 speed",
+      "10 speed"
+    ],
+    "image_path": "/home/yaga9887/toy_data/okvqa/images/image_14.png",
+    "linear_0.25_final_result": "A small child's bicycle is laying on the ground."
+  }
+]

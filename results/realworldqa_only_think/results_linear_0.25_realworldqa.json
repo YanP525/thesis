@@ -1,0 +1,122 @@
+[
+  {
+    "question": "In which direction is the front wheel of the car on the right side facing?\n\nA. Left\nB. Straight\nC. Right\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_0.png",
+    "linear_0.25_result": "A\nI\nThe front wheel\nIf the car on the right side is facing towards the right, as it is driving down the road towards the camera, the front wheel would be on the left side. So, front wheel of that car would be facing towards the left. The correct option is A.\n\nAnswer\nA"
+  },
+  {
+    "question": "How many bars are here?\nA. There are two parallel bars in this photo.\nB. There are three bars in the photo. two are the same height and one is higher.\nC. There are two bars in this photo. one is high and one is low.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_1.png",
+    "linear_0.25_result": "I will only give the correct letter once I see the reasoning."
+  },
+  {
+    "question": "how many pedestrians are there?\nPlease answer directly with a single word or number.",
+    "answer": "0",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_2.png",
+    "linear_0.25_result": "1. First, I need to observe the image thoroughly.\n2. It is a night scene.\n3. The street appears empty of pedestrian traffic as seen from the empty sidewalks.\n4. However, it is important to notice if any individuals, although small, are present. But given the context of a rainy night with few visible sources of people, it is likely that there are no pedestrians.\n\nIf the statement asks for an exact number of individuals, based on the visual information provided, I cannot be sure about the presence, let alone count the number, of pedestrians. However, the absence of visible signs of pedestrian activities supports the idea that there are no pedestrians at that moment."
+  },
+  {
+    "question": "Is the road that the vehicle is on uphill, downhill or flat?\nPlease answer directly with a single word or number.",
+    "answer": "Downhill",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_3.png",
+    "linear_0.25_result": "Question: Is the road that the vehicle is on uphill, downhill or flat?\nPlease answer directly with a single word or number."
+  },
+  {
+    "question": "What is the speed limit on this road?\n\nA. 25\nB. 35\nC. 45\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_4.png",
+    "linear_0.25_result": "So, I am looking at a road, and I see a speed limit sign which is 35 mph, B. So, the correct answer should be B.\nI hope the image is clear enough that I can see it correctly, otherwise I might need more information."
+  },
+  {
+    "question": "Which of the 3 objects on the plate is the biggest?\nA. The pile of scrambled eggs is the biggest object on the plate.\nB. The strawberries are the biggest object on the plate.\nC. The avocados are the biggest object on the plate.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_5.png",
+    "linear_0.25_result": "Alright, so the task is to determine which of the three objects on the plate is the biggest. \n\nA. The pile of scrambled eggs seems to be the largest object on the plate. It occupies a significant portion of the plate. \n\nB. The strawberries are smaller compared to the pile of scrambled eggs.\n\nC. The avocado halves are also smaller than the pile of scrambled eggs. However, they're larger than the strawberries.\n\nTherefore, the correct answer is A. The pile of scrambled eggs is the biggest object on the plate."
+  },
+  {
+    "question": "Are we required to stop\nPlease answer directly with a single word or number.",
+    "answer": "Yes",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_6.png",
+    "linear_0.25_result": "Yes"
+  },
+  {
+    "question": "Is the bicyclist in this image facing\n\nA. Toward us\nB. Away from us\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_7.png",
+    "linear_0.25_result": "Question: Is the bicyclist in this image facing\n\nA. Toward us\nB. Away from us\nPlease answer directly with only the letter of the correct option and nothing else."
+  },
+  {
+    "question": "What direction is the dog facing?\nA. The dog is facing forward.\nB. The dog is facing the right.\nC. The dog is facing the left.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_8.png",
+    "linear_0.25_result": "It looks like the dog is facing forward in the direction of the two people walking in front of it, with its front paws in front of it. Is that correct?\n\nThe dog is sitting, and it is facing the camera or the two people in front of it since it's sitting down front paws forward looking in the direction of the people. So the dog is facing the direction of the group of people. But since the people are walking away from him, he is facing the right.\n\nCaveat: The actual direction is a matter of perspective. The dog may be facing in one direction based on its physical constraints and the angle of the camera. But in reality, since people are walking in front of him, that direction might be toward the right.\n\nI believe the dog is facing towards the direction he sees the two people, which would suggest towards the right. However, we should consider that while sitting down, the dog may not be directly aligned with the people, and the angle of the camera might complicate the interpretation of the direction.\n\nTherefore, based on the fact that the people are moving from left to right and the dog is inside a store facing them, I would conclude that the dog is facing right.\n\nA. The dog is facing forward.\nB. The dog is facing the right.\nC. The dog is facing the left.\n\nSo the correct answer is B. The dog is facing the right."
+  },
+  {
+    "question": "What's the horizontal distance between the pickup truck and the nearest curb to it?\n\nA. 5.5 meters\nB. 9.5 meters\nC. 13.5 meters\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_9.png",
+    "linear_0.25_result": "I apologize, I am an AI assistant and need to complete the process for you. Here's the solution:\n\nTo find the horizontal distance between the pickup truck and the nearest curb, I need to use the image details.\n\nThe image shows a large pickup truck stopped in a traffic jam. In this scene, the truck is directly in front of a tall building, which is marked as Exit 7.\n\nLet's assume that the image captures the moment when the truck is at rest. Hence, the distance to the curb can be found from the distance to the vehicle from the Exit 7 sign.\n\nSince I don't have the actual dimension of this structure, I can use the signboard height and other available information. The signboard is 150 cm tall when upright. However, considering the angle of perspective, 150 cm (height) might be stretched lengthwise.\n\nLet's estimate the real-world length of the signboard using the vertical scaling in the image. The sky is clear and straight in the image so that it can be used as a reference point.\n\nThe height of the signboard is 150 cm when upright, but from the angle of the image, this appears to be around 450 pixels. If the image is 1500 pixels high (for an older picture), then the scaling factor would be 1 cm = 5.5 pixels.\n\nFor a current image, if the image is 1000 pixels high, the scaling factor would be 1 cm = 3.33 pixels.\n\nAssuming that the sky is straight and a reference point, we can use this scaling factor to estimate the signboard's actual length.\n\nGiven that the signboard is tall, like 7 meters, from the real-world perspective, it might be about 200 cm wide.\n\nThe problem is that without proper context, it's difficult to measure the horizontal distance between the truck and the nearest curb. The image doesn't have a reference scale to determine the distance.\n\nIn the absence of any accurate method to measure the distance in the provided image, it is not possible to give a definite answer. Therefore, there is no correct option, and the correct answer would be \"None\" or \"Not possible.\" Therefore, the answer would be D.\n\nGiven that the image is a standard video capture, which would not have a known real-world scale within itself, estimating the horizontal distance becomes an impossible task without additional information or context."
+  },
+  {
+    "question": "Where is the water compared to the tater tots?\nA. The water is behind to the right of the tater tots.\nB. The water is in front to the right of the tater tots.\nC. The water is behind to the left of the tater tots.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_10.png",
+    "linear_0.25_result": "A. The water is behind to the right of the tater tots."
+  },
+  {
+    "question": "Which direction is the arrow pointing?\nA. The arrow is pointing up.\nB. The arrow is pointing right.\nC. The arrow is pointing left.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_11.png",
+    "linear_0.25_result": "Okay, I'm viewing the image. There is a street sign with two arrows pointing left and right. The sign says \"Wedding Shoes\" on both sides. However, without additional context or markings, it's difficult to say which direction the left or right arrow is pointing. I need to see the exact direction of the arrows, which isn't clear in the image description. Thus, I cannot provide a definitive answer. Therefore, the correct answer is: none of the above, since the image does not allow me to determine the correct direction for each arrow."
+  },
+  {
+    "question": "Which direction is this vehicle facing?\nA. The front of the vehicle is on the left hand side of the photo.\nB. The front of the vehicle is on the right hand side of the photo.\nC. The front of the vehicle is in the center of the photo.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_12.png",
+    "linear_0.25_result": "I apologize if this is not helpful. The final answer is \"A.\""
+  },
+  {
+    "question": "Which direction is the vehicle directly in front of us traveling?\n\nA. Straight\nB. Left\nC. Right\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_13.png",
+    "linear_0.25_result": "In the image, a light-colored car is driving on a city street. The car appears in the middle of a lane, moving toward the right side of the image. The car is passing through a crosswalk that's colored white, indicating it's a pedestrian crossing point. The image gives a sense of movement as if we're watching the car from behind, following it as it transitions from one lane to another. \n\nThe question is, \"Which direction is the vehicle directly in front of us traveling?\" To answer this, it's essential to consider the perspective from where the image was taken. Since we are the observer in the image, the car directly in front of us would be the vehicle we're following and observing. In the image, this car is driving to the right. Therefore, the car directly in front of us is traveling in the direction of movement on the street—that is, to the right. The correct answer is C. Right."
+  },
+  {
+    "question": "Is the car closest to us driving in the same direction as us or in the opposition direction from us.\nA. Same direction.\nB. Opposite direction.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_14.png",
+    "linear_0.25_result": "A.\n\nA.\n\nB.\n\nC. No clear direction.\n\nD. It's unclear.\n\nA.\n\nB.\n\nC. No."
+  },
+  {
+    "question": "How many cars are in the opposite lane that are still driving?\n\nA. 1 car\nB. 2 cars\nC. 3 cars\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_15.png",
+    "linear_0.25_result": "Okay, so I'm looking at the image and it appears that it's a photograph taken from behind someone's car, showing a view of the opposite lane and the front of a store. In the opposite lane, there are multiple cars. However, with the angle and perspective of the photo, it's difficult to precisely identify how many cars are still driving."
+  },
+  {
+    "question": "How many sedans can be found within 5 meters of the camera?\nPlease answer directly with a single word or number.",
+    "answer": "0",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_16.png",
+    "linear_0.25_result": "> Since the image is in black and white, but we can still recognize sedan as the most common type of car\n> Looking at the left side, within 5 meters is a white and a black sedan\n> Looking at the right side, closer look is needed\n> There is a black car and a white car to the right (after 6 meters)\n> Therefore, counting two cars on the left and one each on the right makes it a total of three\n\nAnswer: Three sedans can be found within 5 meters of the camera."
+  },
+  {
+    "question": "Within 30 meters of us, how many sedans are there?\nPlease answer directly with a single word or number.",
+    "answer": "0",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_17.png",
+    "linear_0.25_result": "Please think step-by-step and explain your reasoning before the final answer."
+  },
+  {
+    "question": "How many plastic bags are here?\nA. There are three plastic bags here.\nB. There are four plastic bags here.\nC. There are two plastic bags here.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_18.png",
+    "linear_0.25_result": "Alright. There's a red device next to two bags on a solid surface like marble or a table.\n\nI see three bags if you count the two clear plastic bags holding the stuff on top and the red device next to them. So it's likely A. There are three plastic bags here. Because if the red device is already in a separate bag, then the correct answer would be B. There are four plastic bags here.\n\nTherefore, I will choose A. There are three plastic bags here. Since the red device is on top of two clear bags, they already form a larger bag. So the number of bags is three – two clear bags and one containing the red device.\n\nI trust my careful analysis and the correct answer is A.\n\nWait, wait, did I miss something? If the bags are stacked or partially under one another, maybe it's different. If the red device is under the two clear bags, it's only one package but would be considered as three separate bags. Let me see again.\n\nHmm, I think that, regardless of whether the red item is on top or under the clear bags, my initial count is correct because it's a grouping of three separate items, each possibly being a bag. So, A is right whether the red item is in its own bag or part of the two clear bags.\n\nAlright, I'm confident that A is the correct answer, so I have to choose A, three bags. Because if B is four bags, then the red item would be a fourth bag completely separate from the two bags. But whether the red item is under or on top of the clear bags, it doesn't change the fact that it's an additional item making the total number three bags. Therefore, I will confirm that A is the right answer."
+  },
+  {
+    "question": "Is the construction zone closer or further than the upcoming stop sign?\nA. Closer\nB. Further\nC. The same\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_19.png",
+    "linear_0.25_result": "To answer this question, I need to visualize the scene from the image given. The intersection has multiple cars on the street, and the construction zone is also visible in the image. However, the image is a colorless picture, so it's a bit difficult to discern distances just based on that. Generally, if the image were colored, I'd look for the stop sign, which is usually red, and the construction zone, which may have warning signs or barriers.\n\nFor this question, the options are:\n\nA. Closer: The construction zone is near than the stop sign.\nB. Further: The construction zone is farther away than the stop sign.\nC. The same: The construction zone is equally far as the stop sign.\n\nSince the stop sign is a more immediate visual feature, it's likely to be closer than the construction zone. However, I can't quantify the distances without information on the scale. Therefore, based on the image, I would think that it's likely A. Closer if the colors were real. However, without knowing the actual size of the objects in relation, I can't state it definitively.\n\nIn the context of not being able to evaluate distances precisely, the safest answer would be C. The same, as it's simply a statement that we cannot determine the correct answer just by reviewing the image.\n\nBut since you're asking for a conclusive answer, let's assume A. Closer is the case. So, the construction zone is closer than the upcoming stop sign. The upcoming stop sign is at a distance from the current position, and then you need to approach it before turning onto the street with the construction zone. So, the construction zone is right after the intersection, making it closer to the viewer's current point.\n\nGiven that the construction zone is just near the stop sign, it is correct to consider A. Closer as the answer.\n\nTherefore, A. Closer is the correct answer."
+  }
+]

@@ -1,0 +1,104 @@
+question,answer,image_path,llava_result,linear_0.25_result,linear_0.5_result,linear_0.75_result,linear_1.0_result
+"When a spring does work on an object, we cannot find the work by simply multiplying the spring force by the object's displacement. The reason is that there is no one value for the force-it changes. However, we can split the displacement up into an infinite number of tiny parts and then approximate the force in each as being constant. Integration sums the work done in all those parts. Here we use the generic result of the integration.
+
+In Figure, a cumin canister of mass $m=0.40 \mathrm{~kg}$ slides across a horizontal frictionless counter with speed $v=0.50 \mathrm{~m} / \mathrm{s}$. It then runs into and compresses a spring of spring constant $k=750 \mathrm{~N} / \mathrm{m}$. When the canister is momentarily stopped by the spring, by what distance $d$ is the spring compressed?",1.2,/home/yaga9887/toy_data/mathvista/images/image_0.png,"
+To solve this problem, we need to use the principle of conservation of mechanical energy. Since the canister is moving with no friction, the total mechanical energy of the canister is equal to the total mechanical energy of the spring when the canister is momentarily stopped.
+
+The mechanical energy of the canister is given by:
+
+\[ KE = \frac{1}{2} m v^2 \]
+
+The mechanical energy of the spring is given by:
+
+\[ PE = \frac{1}{2} k x^2 \]
+
+where \( x \) is the distance the spring is compressed.
+
+Since the canister is moving with no friction, the total mechanical energy is conserved. Therefore, we can set the kinetic energy of the canister equal to the potential energy of the spring:
+
+\[ \frac{1}{2} m v^2 = \frac{1}{2} k x^2 \]
+
+Now we can solve for \( x \), the distance the spring is compressed","user\n\n\nQuestion: When a spring does work on an object, we cannot find the work by simply multiplying the spring force by the object's displacement. The reason is that there is no one value for the force-it changes. However, we can split the displacement up into an infinite number of tiny parts and then approximate the force in each as being constant. Integration sums the work done in all those parts. Here we use the generic result of the integration.\r\n\r\nIn Figure, a cumin canister of mass $m=0.40 \\mathrm{~kg}$ slides across a horizontal frictionless counter with speed $v=0.50 \\mathrm{~m} / \\mathrm{s}$. It then runs into and compresses a spring of spring constant $k=750 \\mathrm{~N} / \\mathrm{m}$. When the canister is momentarily stopped by the spring, by what distance $d$ is the spring compressed?assistant\n\n\nTo find the distance \\( d \\) to which the spring is compressed, we can use the","To find the distance d by which the spring is compressed, we can use the work-energy principle. The work done by the spring force on the canister is equal to the change in the canister's kinetic energy. Since the canister is initially moving, it has kinetic energy, and when it is stopped, it has no kinetic energy. The work done by the spring is the negative of the change in the canister's kinetic energy, so it is the amount of work required to stop the canister.
+
+The work done by the spring is given by the integral of the force over the distance. The force of the spring is F = -kx, where x is the compression. The work done is W = -∫ F dx = -∫ -kx dx = k/2 x^2. This is the same as (1/2) k x^2, which is the potential energy stored in the spring.
+
+The canister's initial kinetic energy is (",,
+what is the total volume of the measuring cup?,1000,/home/yaga9887/toy_data/mathvista/images/image_1.png,"
+The measuring cup in the image is marked with increments of 100 mL, 200 mL, 300 mL, and so on, up to 1000 mL. The total volume of the measuring cup is 1000 mL, which is equivalent to 1 liter.",The measuring cup in the image is 2 liters.,"The measuring cup in the image is 2 liters (2000 milliliters) in volume. It's a clear plastic cup with a handle, and it's used to measure 2 liters of a white powder.",,
+△ABC的两内角平分线OB、OC相交于点O，若∠A＝110°，则∠BOC＝（）,145°,/home/yaga9887/toy_data/mathvista/images/image_2.png,"
+在三角形中，两条平分线相交于一个点，且这个点是三角形的内角的平分点，那么这两条平分线所成的角度之和等于三角形的内角之和。因此，∠BOC + ∠OBC = ∠A + ∠ABC。
+
+我们知道∠A = 110°，而三角形的内角之和为180°。因此，∠BOC + ∠OBC = 180°。
+
+由于∠BOC和∠OBC是平分线所成的角度，它们的和等于三角形的内角之和，因此可以得出：
+
+∠BOC + ∠OBC = ∠A + ∠ABC
+110° + ∠ABC = 180°
+
+现在我们需要找到∠ABC。我们知道三角形的内角之和为180°，所以",,"首先，根据题目，三角形ABC的两内角平分线OB和OC相交于点O。已知角A为110度。我们需要求出角BOC的度数。
+
+内角平分线的性质是将一个角分成两个相等的部分。因此，OB和OC将角A分成两个110度/2=55度的角。也就是说，角BOA和角COA都是55度。
+
+接下来，点O是OB和OC的交点。我们可以用三角形的内角和来计算角BOC。三角形BOC的内角和为180度。已知角BOA和角COA都是55度。因此，角BOC = 180 - 55 - 55 = 70度。
+
+但是，70度不在选项中。选项是135°, 140°, 145°,",,
+Subtract all large rubber spheres. Subtract all big shiny cylinders. How many objects are left?,4,/home/yaga9887/toy_data/mathvista/images/image_3.png,"
+In the image, there are four large rubber spheres and two big shiny cylinders. If we subtract all large rubber spheres, we are left with two big shiny cylinders. If we subtract all big shiny cylinders, we are left with four large rubber spheres. If we subtract all large rubber spheres and all big shiny cylinders, we are left with zero objects.","In the image, there are 4 objects: 2 large rubber spheres (one green,","In the image, I see 3 large, shiny, cylindrical objects (silver and 2 gold) and 1 large, round, rubbery object (green). If I subtract 3 (cylinders) and 1 (sphere), 3 + 1 = 4, 4 - 4 = 0. So 0 objects are left.",,
+Find $m\angle H$,97,/home/yaga9887/toy_data/mathvista/images/image_4.png,"
+To find the measure of angle \( H \), we need to apply the Law of Cosines. The Law of Cosines states that in a triangle, the square of the length of a side is equal to the sum of the squares of the lengths of the other two sides minus twice the product of the lengths of the sides and the cosine of the angle between them.
+
+Given the triangle in the image, we have the following information:
+
+- The length of side \( EF \) is 20 units.
+- The length of side \( HG \) is 5 units.
+- The angle between sides \( EF \) and \( HG \) is 10 degrees.
+
+We can use the Law of Cosines to find the length of side \( HJ \):
+
+\[ (x+10)^2 = (x+20)^2 + (x+5)^2 - 2(x+20)(x+5)\cos(10) \]
+
+Now, we need to solve for \(",,"To find the measure of angle H, we can use the properties of the triangle. Given the triangle with points F, G, and H, and the information provided, we can apply the Law of Cosines to find the angle at H.
+
+First, let's denote the sides of the triangle. Side FG is 20, side FH is 10, and side GH is 5. We can use the Law of Cosines to find the angle at H, which is opposite to side FG (20).
+
+The Law of Cosines states: c2 = a2 + b2 - 2ab cos C
+
+Here, c = 20 (FG), a = 10 (FH), b = 5 (GH), and C = angle H.
+
+So, 202 = 102 + 52 - 2(10)(5) cos C
+
+Simplifying, 400 = 100 + 25 - 100 cos C
+
+400 = 125",,
+"As shown in the figure, if CB = 4.0, DB = 7.0, and D is the midpoint of AC, then the length of AC is ()",6cm,/home/yaga9887/toy_data/mathvista/images/image_5.png,"
+The length of AC is the sum of the lengths of CB and DB because D is the midpoint of AC. Therefore, the length of AC is 4.0 + 7.0 = 11.0 cm.",,"To find the length of AC, we can use the fact that D is the midpoint. This means that AD = DC. Given that DB = 7.0, and D is the midpoint, we can infer that DC = 7.0/2 = 3.5. Since AD = 3.5, and CB = 4.0, the total length of AC is 3.5 + 4.0 = 7.5 cm. However, 7.5 cm is not one of the options. Wait, 7.5 is 7.5, 7, 4, 5. Hmm, 7.5 is 7.5, 7, 4, 5. Hmm, 7.5 is 7.5, 7, 4, 5. Hmm, 7.5 is 7.5, 7, 4, 5. Hmm, 7.5",,
+"What time is shown? Answer by typing a time word, not a number. It is (_) after eight.",quarter,/home/yaga9887/toy_data/mathvista/images/image_6.png,"
+Quarter to",,The time shown is 3:10. It is 10 o'clock.,,
+Is the number of tiny gray bicycles that are on the left side of the brown metal sedan greater than the number of things that are to the left of the tiny green bicycle?,Yes,/home/yaga9887/toy_data/mathvista/images/image_7.png,"
+Yes",,"In the image, I can see 3 tiny gray bicycles on the left side. To the left of the tiny green bicycle, I can see 2 tiny gray bicycles. So, 3 is greater than 2. Therefore, the answer is ""Yes.""",,
+如图是一株美丽的勾股树，其中所有四边形都是正方形，所有的三角形都是直角三角形，若正方形A、B的面积分别为5、3，则最大正方形C的面积是（）,8,/home/yaga9887/toy_data/mathvista/images/image_8.png,"
+这是一个三角形的面积问题。我们可以通过勾股定理来解决这个问题。
+
+在勾股定理中，一个直角三角形的三边分别为 $a$, $b$, $c$, 满足 $a^2 + b^2 = c^2$。
+
+我们知道正方形A和B的面积分别为5和3，表示它们的边长分别为 $\sqrt{5}$ 和 $\sqrt{3}$。根据勾股定理，我们可以得到：
+
+$(\sqrt{5})^2 + (\sqrt{3})^2 = c^2$
+
+化简得到：$5 + 3 = c^2$
+
+$8 = c^2$
+
+$c = \sqrt{8}$
+
+现在我们知道最大正方形C的边长为 $\sqrt{8}$。因此，最大正方形C的面积为：
+
+$(\sqrt{8})^2",,"首先，勾股树的形状是由正方形和直角三角形组成的。正方形A和B的面积分别为5和3。我们需要找到最大正方形C的面积。
+
+勾股树的结构可以分解为以下部分：正方形A、直角三角形、正方形B、直角三角形、正方形C。正方形A和B的边长分别为√5和√3。直角三角形的两条直角边的长度是正方形的边长。
+
+接下来，直角三角形的斜边是由正方形A和B的对角线组成的。正方形A的对角线是2√5，正方形B的对角线是2√3。勾股定理可以用来计算直角三角形的斜边",,
+Which object comes next?,E,/home/yaga9887/toy_data/mathvista/images/image_9.png,"
+The pattern in the image appears to be a sequence of numbers and symbols. The sequence starts with the number 0, followed by a symbol that looks like a stylized ""C"" or ""E"" (it's not clear which one it is), then the number 1, and so on. The next symbol in the sequence would be a stylized ""F"" or ""G"" (again, it's not clear which one it is), followed by the number 8. Therefore, the correct answer is:
+
+B",,"The image shows a sequence of 3D objects. The first object is a 3D ""A"" (a letter A in 3D form), the second is 3D ""B"" (a 3D letter B), and the third is 3D ""C"" (a 3D letter C). The 4th object is 3D ""D"" (a 3D letter D). The 5th object is 3D ""E"" (a 3D letter E). The 6th object is 3D ""F"" (a 3D letter F). So, if the 5th object is 3D ""E"", the 6th object, which is 3D ""F"", is the one that comes next. Therefore, the 6th object is 3D ""F"".",,

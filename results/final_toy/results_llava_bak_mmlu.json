@@ -1,0 +1,77 @@
+[
+  {
+    "question": " What can murtis be translated as?",
+    "answer": 3,
+    "llava_bak_result": "The correct answer to the question is:\n\n3. Idols\n\nMurtis refers to statues or idols of Hindu deities. These are objects of reverence and used for worship in Hindu temples and households. They are considered symbols that can be offered prayers or other forms of spiritual oblation. The term \"muri\" means \"figure\" or \"image\" in Sanskrit, which is related to the concept of a murti as a physical representation of a deity or sacred being."
+  },
+  {
+    "question": " Naturalists who concentrated on natural elements and processes are associated with which of the following?",
+    "answer": 1,
+    "llava_bak_result": "The naturalists who concentrated on natural elements and processes can be associated with the Yin-YANG school. It emphasizes balance and harmony between the opposites, which often refers to natural phenomena and the interplay between different aspects of existence."
+  },
+  {
+    "question": " When was the first Buddhist temple constructed in Japan?",
+    "answer": 3,
+    "llava_bak_result": "The first Buddhist temple was constructed in Japan in 588 CE, more than 1,400 years ago. It was called the Hakuho-ji. However, there were earlier Buddhist communities and some small temples built in Japan as well, starting from the 7th century. The Hakuho-ji is still being used today as a Buddhist temple."
+  },
+  {
+    "question": " What is the name of the ten day New Year festival that celebrated Babylon's culture?",
+    "answer": 0,
+    "llava_bak_result": "The answer is A. Akitu."
+  },
+  {
+    "question": "Which of the following terms denote the Japanese art of flower arranging?",
+    "answer": 3,
+    "llava_bak_result": "Ikebana is the traditional Japanese art of flower arranging."
+  },
+  {
+    "question": " Guru Nanak and his successors instructed the use of particular Sikh Ragas in order to promote which of the following?",
+    "answer": 0,
+    "llava_bak_result": "There is no definitive answer to the question you have posed, as the Sikh tradition has evolved over time and there is no clear consensus on the appropriate use of specific Sikh ragas to promote certain values or emotions. The use of ragas in Sikh tradition is primarily associated with spiritual and devotional practice, and is intended to help devotees connect with the divine and express their devotion. As such, it could be argued that the use of particular Sikh ragas is intended to promote devotion and piety (answer option 1). However, it is also possible that the use of these ragas is intended to promote harmony and balance (answer option 0), goodwill and love (answer option 3), or other positive qualities, depending on the context in which they are being used. Ultimately, the specific purpose of using particular Sikh ragas will depend on the intentions and practices of individual devotees and communities."
+  },
+  {
+    "question": " Guru Nanak used what term to denote the \"divine word\" as part of divine revelation?",
+    "answer": 0,
+    "llava_bak_result": "The term that Guru Nanak used to denote the \"divine word\" as part of divine revelation is \"Shabad\"."
+  },
+  {
+    "question": "What is the mi'raj?",
+    "answer": 0,
+    "llava_bak_result": "The mi'raj is Muhammad's miraculous ascent to heaven, during which he visited the \"heavens and earth\" and brought back knowledge of the afterlife to those who would follow him. It is considered a pivotal event in the early Islamic tradition and is mentioned in several hadiths, or reports about the teachings of the prophet."
+  },
+  {
+    "question": "What is the name of the most famous dharmashastras, which probably dates from around the first century?",
+    "answer": 3,
+    "llava_bak_result": "The most famous dharma shastra that probably dates from around the first century is the \"Laws of Manu\" (Manusmriti)."
+  },
+  {
+    "question": "What does the term \"Qur'an\" literally mean?",
+    "answer": 2,
+    "llava_bak_result": "The Qur'an is a sacred book that is considered the religious and spiritual guide for Muslims. It contains the revealed word of God as it was delivered to the Prophet Muhammad over a period of 23 years. The Qur'an is not a translation, but rather a revelation that contains the complete and final version of God's words, as preserved and memorized by the Prophet Muhammad.\n\nAccording to Islamic tradition, the Qur'an is the literal word of God as revealed to the Prophet Muhammad, and it is considered the only source of guidance for Muslims. It is often referred to as the \"Furqan\" or \"the Criterion\" because it provides Muslims with a clear distinction between right and wrong. The Qur'an is composed of 114 chapters, or Surahs, and contains approximately 6,300 Arabic verses."
+  },
+  {
+    "question": " Mani referred to God by which of the following names?",
+    "answer": 1,
+    "llava_bak_result": "MANI referred to God as the \"Ineffable Lover.\""
+  },
+  {
+    "question": " Which tradition is known to promote \"gradual enlightenment\"?",
+    "answer": 3,
+    "llava_bak_result": "The tradition known to promote \"gradual enlightenment\" is 3. Soto Zen. Soto Zen does not accept the idea of instantaneous enlightenment as depicted in other Zen schools, such as the Rinzai school, which emphasizes the attainment of enlightenment through a series of satori, or enlightenment experiences, followed by a period of intense training and practice.\n\nInstead, Soto Zen emphasizes the attainment of enlightenment through steady, gradual practice over time, known as shikantaza, or \"just sitting,\" which involves simply sitting in meditation without a specific goal or expectation. This approach is known as \"gradual enlightenment\" and involves the cultivation of wisdom and understanding through a series of mental and spiritual exercises that build up over time to eventually lead to realization of the ultimate truth of reality."
+  },
+  {
+    "question": "What is the communal meal offered at the place of worship called in Sikhism?",
+    "answer": 1,
+    "llava_bak_result": "The correct answer is: Langar\n\nIn Sikhism, a langar is a communal kitchen and dining area where Sikhs gather to share a free meal. It is a central aspect of the Sikh faith, as it symbolizes the idea of sharing and community. The langar is often located within a gurdwara (Sikh place of worship), and all are welcome to come and eat. The food served at the langar is typically simple and vegetarian, emphasizing the principles of equality and sharing. The communal meal offers a space for members of the community to come together, socialize, and enjoy each other's company."
+  },
+  {
+    "question": "To which tradition do the anti-Han rebel group known as the Celestial Masters belong?",
+    "answer": 1,
+    "llava_bak_result": "The anti-Han rebel group known as the Celestial Masters belong to the tradition of Daoism. They were a group of Daoist religious rebels who lived in Sichuan province during the Song Dynasty (960-1279) and were known for their belief in a celestial prophecy that called for a leader to arise to overthrow the ruling Han Chinese authorities. Their belief in this prophecy and their rejection of the ruling regime led to armed uprisings and various rebellions against the Han Chinese government."
+  },
+  {
+    "question": "What does the word \"Islam\" mean in Arabic?",
+    "answer": 1,
+    "llava_bak_result": "The correct answer is 1. Submission."
+  }
+]

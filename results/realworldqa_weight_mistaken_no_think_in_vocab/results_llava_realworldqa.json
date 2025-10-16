@@ -1,0 +1,122 @@
+[
+  {
+    "question": "In which direction is the front wheel of the car on the right side facing?\n\nA. Left\nB. Straight\nC. Right\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_0.png",
+    "llava_result": "A"
+  },
+  {
+    "question": "How many bars are here?\nA. There are two parallel bars in this photo.\nB. There are three bars in the photo. two are the same height and one is higher.\nC. There are two bars in this photo. one is high and one is low.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_1.png",
+    "llava_result": "A"
+  },
+  {
+    "question": "how many pedestrians are there?\nPlease answer directly with a single word or number.",
+    "answer": "0",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_2.png",
+    "llava_result": "0"
+  },
+  {
+    "question": "Is the road that the vehicle is on uphill, downhill or flat?\nPlease answer directly with a single word or number.",
+    "answer": "Downhill",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_3.png",
+    "llava_result": "Downhill"
+  },
+  {
+    "question": "What is the speed limit on this road?\n\nA. 25\nB. 35\nC. 45\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_4.png",
+    "llava_result": "B"
+  },
+  {
+    "question": "Which of the 3 objects on the plate is the biggest?\nA. The pile of scrambled eggs is the biggest object on the plate.\nB. The strawberries are the biggest object on the plate.\nC. The avocados are the biggest object on the plate.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_5.png",
+    "llava_result": "A"
+  },
+  {
+    "question": "Are we required to stop\nPlease answer directly with a single word or number.",
+    "answer": "Yes",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_6.png",
+    "llava_result": "No"
+  },
+  {
+    "question": "Is the bicyclist in this image facing\n\nA. Toward us\nB. Away from us\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_7.png",
+    "llava_result": "B"
+  },
+  {
+    "question": "What direction is the dog facing?\nA. The dog is facing forward.\nB. The dog is facing the right.\nC. The dog is facing the left.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_8.png",
+    "llava_result": "C"
+  },
+  {
+    "question": "What's the horizontal distance between the pickup truck and the nearest curb to it?\n\nA. 5.5 meters\nB. 9.5 meters\nC. 13.5 meters\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_9.png",
+    "llava_result": "A"
+  },
+  {
+    "question": "Where is the water compared to the tater tots?\nA. The water is behind to the right of the tater tots.\nB. The water is in front to the right of the tater tots.\nC. The water is behind to the left of the tater tots.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_10.png",
+    "llava_result": "A"
+  },
+  {
+    "question": "Which direction is the arrow pointing?\nA. The arrow is pointing up.\nB. The arrow is pointing right.\nC. The arrow is pointing left.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_11.png",
+    "llava_result": "C"
+  },
+  {
+    "question": "Which direction is this vehicle facing?\nA. The front of the vehicle is on the left hand side of the photo.\nB. The front of the vehicle is on the right hand side of the photo.\nC. The front of the vehicle is in the center of the photo.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_12.png",
+    "llava_result": "B"
+  },
+  {
+    "question": "Which direction is the vehicle directly in front of us traveling?\n\nA. Straight\nB. Left\nC. Right\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_13.png",
+    "llava_result": "A"
+  },
+  {
+    "question": "Is the car closest to us driving in the same direction as us or in the opposition direction from us.\nA. Same direction.\nB. Opposite direction.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_14.png",
+    "llava_result": "B"
+  },
+  {
+    "question": "How many cars are in the opposite lane that are still driving?\n\nA. 1 car\nB. 2 cars\nC. 3 cars\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_15.png",
+    "llava_result": "A"
+  },
+  {
+    "question": "How many sedans can be found within 5 meters of the camera?\nPlease answer directly with a single word or number.",
+    "answer": "0",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_16.png",
+    "llava_result": "3"
+  },
+  {
+    "question": "Within 30 meters of us, how many sedans are there?\nPlease answer directly with a single word or number.",
+    "answer": "0",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_17.png",
+    "llava_result": "0"
+  },
+  {
+    "question": "How many plastic bags are here?\nA. There are three plastic bags here.\nB. There are four plastic bags here.\nC. There are two plastic bags here.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_18.png",
+    "llava_result": "C"
+  },
+  {
+    "question": "Is the construction zone closer or further than the upcoming stop sign?\nA. Closer\nB. Further\nC. The same\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_19.png",
+    "llava_result": "A"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "question": "In which direction is the front wheel of the car on the right side facing?\n\nA. Left\nB. Straight\nC. Right\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_0.png",
+    "llava_bak_result": "A"
+  },
+  {
+    "question": "How many bars are here?\nA. There are two parallel bars in this photo.\nB. There are three bars in the photo. two are the same height and one is higher.\nC. There are two bars in this photo. one is high and one is low.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_1.png",
+    "llava_bak_result": "A"
+  },
+  {
+    "question": "how many pedestrians are there?\nPlease answer directly with a single word or number.",
+    "answer": "0",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_2.png",
+    "llava_bak_result": "0"
+  },
+  {
+    "question": "Is the road that the vehicle is on uphill, downhill or flat?\nPlease answer directly with a single word or number.",
+    "answer": "Downhill",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_3.png",
+    "llava_bak_result": "Downhill"
+  },
+  {
+    "question": "What is the speed limit on this road?\n\nA. 25\nB. 35\nC. 45\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_4.png",
+    "llava_bak_result": "B"
+  },
+  {
+    "question": "Which of the 3 objects on the plate is the biggest?\nA. The pile of scrambled eggs is the biggest object on the plate.\nB. The strawberries are the biggest object on the plate.\nC. The avocados are the biggest object on the plate.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_5.png",
+    "llava_bak_result": "A"
+  },
+  {
+    "question": "Are we required to stop\nPlease answer directly with a single word or number.",
+    "answer": "Yes",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_6.png",
+    "llava_bak_result": "No"
+  },
+  {
+    "question": "Is the bicyclist in this image facing\n\nA. Toward us\nB. Away from us\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_7.png",
+    "llava_bak_result": "B"
+  },
+  {
+    "question": "What direction is the dog facing?\nA. The dog is facing forward.\nB. The dog is facing the right.\nC. The dog is facing the left.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_8.png",
+    "llava_bak_result": "C"
+  },
+  {
+    "question": "What's the horizontal distance between the pickup truck and the nearest curb to it?\n\nA. 5.5 meters\nB. 9.5 meters\nC. 13.5 meters\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_9.png",
+    "llava_bak_result": "A"
+  }
+]

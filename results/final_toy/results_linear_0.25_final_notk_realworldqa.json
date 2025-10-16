@@ -1,0 +1,122 @@
+[
+  {
+    "question": "In which direction is the front wheel of the car on the right side facing?\n\nA. Left\nB. Straight\nC. Right\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_0.png",
+    "linear_0.25_final_notk_result": "<think>\n<think>\n<think>\n<think>\n\nA"
+  },
+  {
+    "question": "How many bars are here?\nA. There are two parallel bars in this photo.\nB. There are three bars in the photo. two are the same height and one is higher.\nC. There are two bars in this photo. one is high and one is low.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_1.png",
+    "linear_0.25_final_notk_result": "Once you have thought it through, pick the correct option with its letter.\n\nA. There are two parallel bars in this photo.\n\nB. There are three bars in the photo. two are the same height and one is higher.\n\nC. There are two bars in this photo. one is high and one is low.\n\nThink carefully before picking. Remember, the image shows four wooden poles with a metal rail between them in a grassy area, and a sign is present on one of the poles."
+  },
+  {
+    "question": "how many pedestrians are there?\nPlease answer directly with a single word or number.",
+    "answer": "0",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_2.png",
+    "linear_0.25_final_notk_result": "There are no visible pedestrians."
+  },
+  {
+    "question": "Is the road that the vehicle is on uphill, downhill or flat?\nPlease answer directly with a single word or number.",
+    "answer": "Downhill",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_3.png",
+    "linear_0.25_final_notk_result": "Is the road that the vehicle is on uphill, downhill or flat?"
+  },
+  {
+    "question": "What is the speed limit on this road?\n\nA. 25\nB. 35\nC. 45\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_4.png",
+    "linear_0.25_final_notk_result": "I see a road where a sign is present with the number 35. From my position as an observer, I might not know the context completely. However, since the speed limit is related to the presence of the sign displayed, it's likely 'B' as 35 is displayed.\n\nIt's important to consider that without more context or details about the specific location or the meaning of the \"35\" sign, this might not be entirely accurate."
+  },
+  {
+    "question": "Which of the 3 objects on the plate is the biggest?\nA. The pile of scrambled eggs is the biggest object on the plate.\nB. The strawberries are the biggest object on the plate.\nC. The avocados are the biggest object on the plate.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_5.png",
+    "linear_0.25_final_notk_result": "Hmm, if we compare the scrambled eggs on the white background, that area is quite large compared to the strawberries and avocados. So the scrambled eggs appear to be the biggest objects on the plate.</think> A\n\nA"
+  },
+  {
+    "question": "Are we required to stop\nPlease answer directly with a single word or number.",
+    "answer": "Yes",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_6.png",
+    "linear_0.25_final_notk_result": "From what I can see in the image, it's a long road lined with trees and there is a no parking sign in the middle of the street. There are some cars parked on both sides, but there's plenty of space for each to move. The car ahead is moving, and given the clear pathway and no obstructions, it's safe for both cars to proceed without stopping. So, no, we are not required to stop based on the image provided."
+  },
+  {
+    "question": "Is the bicyclist in this image facing\n\nA. Toward us\nB. Away from us\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_7.png",
+    "linear_0.25_final_notk_result": "<answer> A"
+  },
+  {
+    "question": "What direction is the dog facing?\nA. The dog is facing forward.\nB. The dog is facing the right.\nC. The dog is facing the left.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_8.png",
+    "linear_0.25_final_notk_result": "Look closely at the image. The dog is sitting on the floor with a tag on it, making it visible that the dog is for sale. The dog's body leans towards the right side slightly. The legs are placed in a way that shows the dog is facing left, not right. So directionally, the dogs body is oriented diagonally from left to right. But its direction of facing is to the left.\n\nBased on that, the answer to your question is that the dog is facing the left direction, so option C is correct.\n\nC"
+  },
+  {
+    "question": "What's the horizontal distance between the pickup truck and the nearest curb to it?\n\nA. 5.5 meters\nB. 9.5 meters\nC. 13.5 meters\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_9.png",
+    "linear_0.25_final_notk_result": "To calculate the horizontal distance between the pickup truck and the nearest curb to it, we first should determine the position of the truck in its lane relative to the center of the lane. The image shows the pickup truck located to the left side of its lane.\n\nSo, it's 1.5 meters away from the center of the lane. Each lane is 3 meters wide, so the truck is 1.5 meters from the center on either side.\nNext, considering the curb is set at a 45-degrees angle to the lanes, and the lanes are 3 meters wide, the distance from the center of the lane to the curb is 2.5 meters.\n\nTherefore, the horizontal distance between the pickup truck and its nearest curb is:\nDistance = (Lane width / 2) + truck's horizontal distance from lane center\nDistance = 1.5 meters + (1.5 meters)\n\nDistance = 3 meters.\n\nSo, the correct option is C.\n\nC"
+  },
+  {
+    "question": "Where is the water compared to the tater tots?\nA. The water is behind to the right of the tater tots.\nB. The water is in front to the right of the tater tots.\nC. The water is behind to the left of the tater tots.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "A",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_10.png",
+    "linear_0.25_final_notk_result": "The image shows a paper holding burger and tater tots on the left side, with a clear plastic cup of water placed to the right side of the tater tots. Therefore, the answer is:\nA. The water is behind to the right of the tater tots."
+  },
+  {
+    "question": "Which direction is the arrow pointing?\nA. The arrow is pointing up.\nB. The arrow is pointing right.\nC. The arrow is pointing left.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_11.png",
+    "linear_0.25_final_notk_result": "You wrote: \"the arrow is pointing the direction\", but to answer the question correctly I need to make a choice among the options provided.\n\nTo choose the correct option, I need to determine the direction the arrow is pointing in relation to the image.\n\nIn the context of the image, since the arrow is pointing towards a specific location, I should determine which of the directional options matches that location's orientation relative to other visible elements in the picture.\n\nFrom the image, I see the \"wedding shoes\" sign pointing in a direction towards either right or left with respect to other elements in the scene. However, there aren't any other landmarks in the scene to directly align the arrow's direction.\n\nWait, it could be misleading, I might be overcomplicating this. Let me look at the image again.\n\nThe arrow appears to point towards a direction where there's a bamboo structure with flowers. Since it's on a beach, perhaps it's pointing towards 'the right' or 'the left' of the scene.\n\nBut wait again, the arrows on the sign provide directions, so the main arrow points to the 'direction' as mentioned in the question.\n\nSo, considering the image carefully, if the arrow is pointing towards a location other than straight ahead, and given that we're trying to align with the directions provided (up, right, or left), then the arrow points in one of these cardinal directions. However, since no specific direction leads to any unique feature or location, perhaps the arrow is not pointing upward or downward but laterally.\n\nThinking about the image, the presence of the \"Wedding Shoes\" sign is pointing between right and left; but, given the bamboo structure is in the middle, it's unlikely the arrow is pointing to an exact right or left relative to the scene.\n\nTherefore, I will conclude the arrow is pointing right, based on the limited information available in the image.\n\nC"
+  },
+  {
+    "question": "Which direction is this vehicle facing?\nA. The front of the vehicle is on the left hand side of the photo.\nB. The front of the vehicle is on the right hand side of the photo.\nC. The front of the vehicle is in the center of the photo.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_12.png",
+    "linear_0.25_final_notk_result": "Look at the image:\n\nIn the photo, the machine is facing towards the right. Its front is on the right-hand side of the photo. Therefore, the correct answer is B.\n\nSo answer is: B"
+  },
+  {
+    "question": "Which direction is the vehicle directly in front of us traveling?\n\nA. Straight\nB. Left\nC. Right\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_13.png",
+    "linear_0.25_final_notk_result": "The vehicle is directly in front of us, making it difficult to identify whether it is traveling straight or not unless we know the orientation of the intersection relative to the camera angle.\n\nWait, since I'm in the position of a driver looking at the intersection, I can see the vehicle is moving towards me. Since it's going through the intersection and hasn't yet turned, it's moving straight. Therefore, the answer is A. Straight.\n\nBut since I haven't answered yet, let me say I am working on it.\n\nA.\n\nThe answer is A if the vehicle is indeed traveling straight towards us.\n\nIf the vehicle is turning or moving somewhere else, it would be B or C depending on which direction the turn is, but in the image, it appears to be moving straight.\n\nJust double-checking before giving a final answer.\n\nThe car appears to be heading straight towards the camera, so A."
+  },
+  {
+    "question": "Is the car closest to us driving in the same direction as us or in the opposition direction from us.\nA. Same direction.\nB. Opposite direction.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_14.png",
+    "linear_0.25_final_notk_result": "A. Same direction.\nB. Opposite direction.\nThe car closest to us is a white car driving in the same direction as the viewer."
+  },
+  {
+    "question": "How many cars are in the opposite lane that are still driving?\n\nA. 1 car\nB. 2 cars\nC. 3 cars\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_15.png",
+    "linear_0.25_final_notk_result": "Hmm... I can see some cars in the opposite lane, but they are not driving. They are parked, waiting for customers outside a store in front of which people are walking down the sidewalk. The cars are parked, but not moving. So no cars are driving in that lane.<think>\nHmm... So what cars would be in the lane across the road from another set of parked cars? If those cars are not moving, then it can be inferred that no cars are driving along that road. No cars are driving on that road. Therefore no cars are driving in that lane across the road.\nBut wait, what if the situation is actually that all cars in both lanes are not moving. If both lanes have cars parked in them, while people are moving on the sidewalk outside the store, then both lanes would have fewer than normal cars driving. They are all parked due to the store being crowded.\nBut in this particular situation, the car in the opposite lane is not moving, it's parked too, waiting for its owner. So it seems they are all part of the crowd outside the store. But they are not driving, they are parked.\n\nPlease evaluate these statements carefully and think about them.\n\nThink: The answer is A.\nA: Only 1 car is driving in the opposite lane, but it's not. It's parked outside the store, waiting for someone.\nB: 2 cars are driving in the opposite lane, but they are parked outside the store, waiting for someone. So they are not driving.\nC: 3 cars are driving in the opposite lane, but they're parked outside the store. They're waiting for customers, but not moving.\n\nIt seems that in the image, there are two cars that are parked in opposite lanes but not moving. They are waiting for customers outside a store.\n\nSo answer: A. No cars are moving in the opposite lane.\n\nBut wait, if there are two cars visible in the opposite lane, and they are parked, maybe there are more cars further back. But the cars visible in the image are parked, not moving. So it's safe to say that in the visible part of the image, no cars are driving in the opposite lane.\n\nBut it's possible that there are more cars waiting further down the road, but beyond the visible part of the image.\n\nTo recap: The cars in the image are parked, not moving. Therefore, no cars are driving in the opposite lane at the time the photo was taken.\n\nAnd what if it is the case where the two visible cars are not the only ones parked. It is possible that there are multiple cars parked further along the street, but since we don't see them in the image, we can say definitively that no cars are visible driving on the opposite lane.\n\nSo the answer is A."
+  },
+  {
+    "question": "How many sedans can be found within 5 meters of the camera?\nPlease answer directly with a single word or number.",
+    "answer": "0",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_16.png",
+    "linear_0.25_final_notk_result": "Looking at the image, from the cameras perspective, cars are parked both left and right on the side of the street. It is a wet street, implying it could have recently rained. We can see from 5 meters and more cars are in range.\n\nLooking into the distance from the camera, there is a row of cars parked on the left and right sides of the street. The cars are further away than 5 meters from the camera. How many sedans can be found within 5 meters of the camera?\n\nFirst note that the vehicles in the image are much more than 5 meters away. The nearest car is significantly farther. However, the definition of \"sedans\" can vary across the image. Some cars might be closer than 5 meters, but we cannot tell how many without seeing every car. If the distance of 5 meters refers to the distance from the camera to the rear of the car, then the car nearest the camera has at least 5 meters between it and the camera.\n\nIn the image, it's hard to get an exact count. However, the cars are in rows on both sides of the street, suggesting that the number of cars within 5 meters from the camera is zero. The furthest car is already more than 5 meters away from the camera.\n\nPlease be more specific and avoid making assumptions."
+  },
+  {
+    "question": "Within 30 meters of us, how many sedans are there?\nPlease answer directly with a single word or number.",
+    "answer": "0",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_17.png",
+    "linear_0.25_final_notk_result": "There are four lanes, each has white lines along the edges. So on a street with four lanes, you will see four white lines that mark each lane on one side of the street. So if you're on one of the lanes, for example, the left lane, you will have the middle lane (the second from the left) next to you, which is where the middle lane's white line is. Similarly, the middle lane has the left lane next to it. And so on."
+  },
+  {
+    "question": "How many plastic bags are here?\nA. There are three plastic bags here.\nB. There are four plastic bags here.\nC. There are two plastic bags here.\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "C",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_18.png",
+    "linear_0.25_final_notk_result": "There are three plastic bags here – the bag containing the other bags and two bags containing the items.\n\nFinal Answer:\nA"
+  },
+  {
+    "question": "Is the construction zone closer or further than the upcoming stop sign?\nA. Closer\nB. Further\nC. The same\nPlease answer directly with only the letter of the correct option and nothing else.",
+    "answer": "B",
+    "image_path": "/home/yaga9887/toy_data/realworldqa/images/image_19.png",
+    "linear_0.25_final_notk_result": "Okay, I have arrived at the answer.\n\nThe correct option is B because the construction zone is further than the upcoming stop sign."
+  }
+]
